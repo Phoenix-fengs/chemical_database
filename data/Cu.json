@@ -1,0 +1,570 @@
+[
+  {
+    "Equation": "2Cu+O₂==2CuO",
+    "Valence": [
+      "Cu:+2",
+      "O:-2"
+    ],
+    "oxidizing_agent": "O₂",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "O₂ --> +2e"
+    ]
+  },
+  {
+    "Equation": "Cu+Cl₂==CuCl₂",
+    "Valence": [
+      "Cu:+2",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "Cl₂",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "Cl₂ --> +2e"
+    ]
+  },
+  {
+    "Equation": "Cu+S==CuS",
+    "Valence": [
+      "Cu:+2",
+      "S:-2"
+    ],
+    "oxidizing_agent": "S",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "S --> +2e"
+    ]
+  },
+  {
+    "Equation": "2Cu+O₂+CO₂+H₂O==Cu₂(OH)₂CO₃",
+    "Valence": [
+      "Cu:+2",
+      "O:-2",
+      "C:+4",
+      "H:+1"
+    ],
+    "oxidizing_agent": "O₂",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "O₂ --> +2e"
+    ]
+  },
+  {
+    "Equation": "Cu+2AgNO₃==Cu(NO₃)₂+2Ag",
+    "Valence": [
+      "Cu:+2",
+      "Ag:+1",
+      "NO₃:-1"
+    ],
+    "oxidizing_agent": "AgNO₃",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "Ag --> +2e"
+    ]
+  },
+  {
+    "Equation": "Cu+2FeCl₃==CuCl₂+2FeCl₂",
+    "Valence": [
+      "Cu:+2",
+      "Fe:+3",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "FeCl₃",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "Fe --> +2e"
+    ]
+  },
+  {
+    "Equation": "Cu+4HNO₃(浓)==Cu(NO₃)₂+2NO₂↑+2H₂O",
+    "Valence": [
+      "Cu:+2",
+      "N:+4",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "HNO₃",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "N --> +2e"
+    ]
+  },
+  {
+    "Equation": "3Cu+8HNO₃(稀)==3Cu(NO₃)₂+2NO↑+4H₂O",
+    "Valence": [
+      "Cu:+2",
+      "N:+2",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "HNO₃",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "N --> +3e"
+    ]
+  },
+  {
+    "Equation": "Cu+2H₂SO₄(浓)==CuSO₄+SO₂↑+2H₂O",
+    "Valence": [
+      "Cu:+2",
+      "S:+4",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "H₂SO₄",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "S --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuO+H₂==Cu+H₂O",
+    "Valence": [
+      "Cu:0",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "CuO",
+    "reducing_agent": "H₂",
+    "Bridge": [
+      "H₂ --> -2e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuO+CO==Cu+CO₂",
+    "Valence": [
+      "Cu:0",
+      "C:+4",
+      "O:-2"
+    ],
+    "oxidizing_agent": "CuO",
+    "reducing_agent": "CO",
+    "Bridge": [
+      "CO --> -2e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuO+H₂SO₄==CuSO₄+H₂O",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "S --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuO+2HCl==CuCl₂+H₂O",
+    "Valence": [
+      "Cu:+2",
+      "Cl:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "Cl --> 0e"
+    ]
+  },
+  {
+    "Equation": "Cu(OH)₂+H₂SO₄==CuSO₄+2H₂O",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "OH:-1",
+      "H:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "S --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+2NaOH==Cu(OH)₂↓+Na₂SO₄",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "Na:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "Na --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+Fe==FeSO₄+Cu",
+    "Valence": [
+      "Cu:+2",
+      "Fe:+2",
+      "SO₄:-2"
+    ],
+    "oxidizing_agent": "CuSO₄",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuCl₂+2NaOH==Cu(OH)₂↓+2NaCl",
+    "Valence": [
+      "Cu:+2",
+      "Cl:-1",
+      "Na:+1",
+      "OH:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "Cl --> 0e"
+    ]
+  },
+  {
+    "Equation": "Cu(OH)₂==CuO+H₂O",
+    "Valence": [
+      "Cu:+2",
+      "O:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "H --> 0e"
+    ]
+  },
+  {
+    "Equation": "Cu₂(OH)₂CO₃==2CuO+CO₂↑+H₂O",
+    "Valence": [
+      "Cu:+2",
+      "C:+4",
+      "O:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "C --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+Zn==ZnSO₄+Cu",
+    "Valence": [
+      "Cu:+2",
+      "Zn:+2",
+      "SO₄:-2"
+    ],
+    "oxidizing_agent": "CuSO₄",
+    "reducing_agent": "Zn",
+    "Bridge": [
+      "Zn --> -2e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "2Al+3CuSO₄==Al₂(SO₄)₃+3Cu",
+    "Valence": [
+      "Cu:+2",
+      "Al:+3",
+      "SO₄:-2"
+    ],
+    "oxidizing_agent": "CuSO₄",
+    "reducing_agent": "Al",
+    "Bridge": [
+      "Al --> -3e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuCl₂+Fe==FeCl₂+Cu",
+    "Valence": [
+      "Cu:+2",
+      "Fe:+2",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "CuCl₂",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+BaCl₂==BaSO₄↓+CuCl₂",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "Ba:+2",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "Ba --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+Ba(OH)₂==Cu(OH)₂↓+BaSO₄↓",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "Ba:+2",
+      "OH:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "Ba --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuCl₂+2AgNO₃==Cu(NO₃)₂+2AgCl↓",
+    "Valence": [
+      "Cu:+2",
+      "Cl:-1",
+      "Ag:+1",
+      "NO₃:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "Ag --> 0e"
+    ]
+  },
+  {
+    "Equation": "Cu₂(OH)₂CO₃+4HCl==2CuCl₂+CO₂↑+3H₂O",
+    "Valence": [
+      "Cu:+2",
+      "C:+4",
+      "Cl:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "C --> 0e"
+    ]
+  },
+  {
+    "Equation": "Cu₂(OH)₂CO₃+2H₂SO₄==2CuSO₄+CO₂↑+3H₂O",
+    "Valence": [
+      "Cu:+2",
+      "C:+4",
+      "SO₄:-2",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "C --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuO+2HNO₃==Cu(NO₃)₂+H₂O",
+    "Valence": [
+      "Cu:+2",
+      "NO₃:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "N --> 0e"
+    ]
+  },
+  {
+    "Equation": "Cu(OH)₂+2HNO₃==Cu(NO₃)₂+2H₂O",
+    "Valence": [
+      "Cu:+2",
+      "NO₃:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "N --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄·5H₂O==CuSO₄+5H₂O",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "H --> 0e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+5H₂O==CuSO₄·5H₂O",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "H --> 0e"
+    ]
+  },
+  {
+    "Equation": "C+2CuO==2Cu+CO₂↑",
+    "Valence": [
+      "Cu:0",
+      "C:+4",
+      "O:-2"
+    ],
+    "oxidizing_agent": "CuO",
+    "reducing_agent": "C",
+    "Bridge": [
+      "C --> -4e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "2Cu(NO₃)₂==2CuO+4NO₂↑+O₂↑",
+    "Valence": [
+      "Cu:+2",
+      "N:+4",
+      "O:0"
+    ],
+    "oxidizing_agent": "Cu(NO₃)₂",
+    "reducing_agent": "Cu(NO₃)₂",
+    "Bridge": [
+      "O --> -2e",
+      "N --> +1e"
+    ]
+  },
+  {
+    "Equation": "2CuSO₄+2H₂O==2Cu+O₂↑+2H₂SO₄",
+    "Valence": [
+      "Cu:0",
+      "O:0",
+      "H:+1",
+      "S:+6"
+    ],
+    "oxidizing_agent": "CuSO₄",
+    "reducing_agent": "H₂O",
+    "Bridge": [
+      "O --> -2e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuCl₂==Cu+Cl₂↑",
+    "Valence": [
+      "Cu:0",
+      "Cl:0"
+    ],
+    "oxidizing_agent": "CuCl₂",
+    "reducing_agent": "CuCl₂",
+    "Bridge": [
+      "Cl --> -1e",
+      "Cu --> +2e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+Na₂S==CuS↓+Na₂SO₄",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "Na:+1",
+      "S:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "Na --> 0e"
+    ]
+  },
+  {
+    "Equation": "Cu₂O+H₂SO₄==CuSO₄+Cu+H₂O",
+    "Valence": [
+      "Cu:+1",
+      "S:+6",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "Cu₂O",
+    "reducing_agent": "Cu₂O",
+    "Bridge": [
+      "Cu --> -1e",
+      "Cu --> +1e"
+    ]
+  },
+  {
+    "Equation": "CH₃CHO+2Cu(OH)₂+NaOH==CH₃COONa+Cu₂O↓+3H₂O",
+    "Valence": [
+      "Cu:+1",
+      "C:+3",
+      "Na:+1",
+      "O:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "Cu(OH)₂",
+    "reducing_agent": "CH₃CHO",
+    "Bridge": [
+      "C --> -2e",
+      "Cu --> +1e"
+    ]
+  },
+  {
+    "Equation": "CuSO₄+4NH₃·H₂O==[Cu(NH₃)₄]SO₄+4H₂O",
+    "Valence": [
+      "Cu:+2",
+      "SO₄:-2",
+      "N:-3",
+      "H:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Cu --> 0e",
+      "N --> 0e"
+    ]
+  }
+]
