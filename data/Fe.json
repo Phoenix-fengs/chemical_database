@@ -1,0 +1,585 @@
+[
+  {
+    "Equation": "3Fe+2O₂==Fe₃O₄",
+    "Valence": [
+      "Fe:+8/3",
+      "O:-2"
+    ],
+    "oxidizing_agent": "O₂",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -8/3e",
+      "O --> +2e"
+    ],
+    "Condition": "点燃（铁在纯氧中燃烧，火星四射；Fe₃O₄ 为 FeO·Fe₂O₃ 混合价，Fe 平均 +8/3）"
+  },
+  {
+    "Equation": "2Fe+3Cl₂==2FeCl₃",
+    "Valence": [
+      "Fe:+3",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "Cl₂",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -3e",
+      "Cl --> +1e"
+    ],
+    "Condition": "点燃（铁在氯气中燃烧，冒棕褐色烟，生成 FeCl₃）"
+  },
+  {
+    "Equation": "Fe+S==FeS",
+    "Valence": [
+      "Fe:+2",
+      "S:-2"
+    ],
+    "oxidizing_agent": "S",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "S --> +2e"
+    ],
+    "Condition": "加热（铁粉与硫粉混合共热，红热，生成黑色 FeS）"
+  },
+  {
+    "Equation": "Fe+2HCl==FeCl₂+H₂↑",
+    "Valence": [
+      "Fe:+2",
+      "Cl:-1",
+      "H:+1"
+    ],
+    "oxidizing_agent": "HCl",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "H --> +1e"
+    ],
+    "Condition": "常温（铁与盐酸反应生成 Fe²⁺ 和氢气，溶液浅绿色）"
+  },
+  {
+    "Equation": "Fe+H₂SO₄(稀)==FeSO₄+H₂↑",
+    "Valence": [
+      "Fe:+2",
+      "SO₄:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "H₂SO₄",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "H --> +1e"
+    ],
+    "Condition": "常温（稀硫酸氧化铁只生成 Fe²⁺）"
+  },
+  {
+    "Equation": "Fe+4HNO₃(稀)==Fe(NO₃)₃+NO↑+2H₂O",
+    "Valence": [
+      "Fe:+3",
+      "N:+2",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "HNO₃",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -3e",
+      "N --> +3e"
+    ],
+    "Condition": "常温或微热（稀硝酸足量时生成 Fe³⁺）"
+  },
+  {
+    "Equation": "3Fe+8HNO₃(稀)==3Fe(NO₃)₂+2NO↑+4H₂O",
+    "Valence": [
+      "Fe:+2",
+      "N:+2",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "HNO₃",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "N --> +3e"
+    ],
+    "Condition": "常温或微热（铁过量时生成 Fe²⁺）"
+  },
+  {
+    "Equation": "Fe+6HNO₃(浓)==Fe(NO₃)₃+3NO₂↑+3H₂O",
+    "Valence": [
+      "Fe:+3",
+      "N:+4",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "HNO₃",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -3e",
+      "N --> +1e"
+    ],
+    "Condition": "加热（常温下浓硝酸使铁钝化，加热才反应）"
+  },
+  {
+    "Equation": "2Fe+6H₂SO₄(浓)==Fe₂(SO₄)₃+3SO₂↑+6H₂O",
+    "Valence": [
+      "Fe:+3",
+      "S:+4",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "H₂SO₄",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -3e",
+      "S --> +2e"
+    ],
+    "Condition": "加热（常温下浓硫酸使铁钝化，加热才反应）"
+  },
+  {
+    "Equation": "3Fe+4H₂O(气)==Fe₃O₄+4H₂↑",
+    "Valence": [
+      "Fe:+8/3",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "H₂O",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -8/3e",
+      "H --> +1e"
+    ],
+    "Condition": "高温（红热铁与水蒸气反应）"
+  },
+  {
+    "Equation": "Fe+CuSO₄==FeSO₄+Cu",
+    "Valence": [
+      "Fe:+2",
+      "Cu:+2",
+      "SO₄:-2"
+    ],
+    "oxidizing_agent": "CuSO₄",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "Cu --> +2e"
+    ],
+    "Condition": "常温（铁置换铜，铁表面附红色铜）"
+  },
+  {
+    "Equation": "Fe+CuCl₂==FeCl₂+Cu",
+    "Valence": [
+      "Fe:+2",
+      "Cu:+2",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "CuCl₂",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "Cu --> +2e"
+    ],
+    "Condition": "常温"
+  },
+  {
+    "Equation": "Fe+2AgNO₃==Fe(NO₃)₂+2Ag",
+    "Valence": [
+      "Fe:+2",
+      "Ag:+1",
+      "NO₃:-1"
+    ],
+    "oxidizing_agent": "AgNO₃",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "Ag --> +1e"
+    ],
+    "Condition": "常温（铁置换银）"
+  },
+  {
+    "Equation": "Fe₂O₃+6HCl==2FeCl₃+3H₂O",
+    "Valence": [
+      "Fe:+3",
+      "Cl:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "Cl --> 0e"
+    ],
+    "Condition": "常温（红棕色 Fe₂O₃ 溶于盐酸变黄）"
+  },
+  {
+    "Equation": "Fe₂O₃+3H₂SO₄==Fe₂(SO₄)₃+3H₂O",
+    "Valence": [
+      "Fe:+3",
+      "SO₄:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "S --> 0e"
+    ],
+    "Condition": "常温"
+  },
+  {
+    "Equation": "Fe₂O₃+3CO==2Fe+3CO₂",
+    "Valence": [
+      "Fe:0",
+      "C:+4",
+      "O:-2"
+    ],
+    "oxidizing_agent": "Fe₂O₃",
+    "reducing_agent": "CO",
+    "Bridge": [
+      "C --> -2e",
+      "Fe --> +3e"
+    ],
+    "Condition": "高温（高炉炼铁主反应）"
+  },
+  {
+    "Equation": "Fe₂O₃+3H₂==2Fe+3H₂O",
+    "Valence": [
+      "Fe:0",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "Fe₂O₃",
+    "reducing_agent": "H₂",
+    "Bridge": [
+      "H --> -1e",
+      "Fe --> +3e"
+    ],
+    "Condition": "高温（氢气还原氧化铁）"
+  },
+  {
+    "Equation": "2Fe₂O₃+3C==4Fe+3CO₂↑",
+    "Valence": [
+      "Fe:0",
+      "C:+4",
+      "O:-2"
+    ],
+    "oxidizing_agent": "Fe₂O₃",
+    "reducing_agent": "C",
+    "Bridge": [
+      "C --> -4e",
+      "Fe --> +3e"
+    ],
+    "Condition": "高温（焦炭还原氧化铁）"
+  },
+  {
+    "Equation": "2Al+Fe₂O₃==Al₂O₃+2Fe",
+    "Valence": [
+      "Fe:0",
+      "Al:+3",
+      "O:-2"
+    ],
+    "oxidizing_agent": "Fe₂O₃",
+    "reducing_agent": "Al",
+    "Bridge": [
+      "Al --> -3e",
+      "Fe --> +3e"
+    ],
+    "Condition": "高温引燃（铝热反应，剧烈放热，用于焊接钢轨）"
+  },
+  {
+    "Equation": "Fe₃O₄+4CO==3Fe+4CO₂",
+    "Valence": [
+      "Fe:0",
+      "C:+4",
+      "O:-2"
+    ],
+    "oxidizing_agent": "Fe₃O₄",
+    "reducing_agent": "CO",
+    "Bridge": [
+      "C --> -2e",
+      "Fe --> +8/3e"
+    ],
+    "Condition": "高温（四氧化三铁被一氧化碳还原）"
+  },
+  {
+    "Equation": "Fe₃O₄+8HCl==FeCl₂+2FeCl₃+4H₂O",
+    "Valence": [
+      "Fe:+2,+3",
+      "Cl:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "Cl --> 0e"
+    ],
+    "Condition": "常温（黑色 Fe₃O₄ 溶于盐酸，生成 Fe²⁺ 与 Fe³⁺ 混合液）"
+  },
+  {
+    "Equation": "FeO+2HCl==FeCl₂+H₂O",
+    "Valence": [
+      "Fe:+2",
+      "Cl:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "Cl --> 0e"
+    ],
+    "Condition": "常温（黑色 FeO 溶于盐酸变浅绿）"
+  },
+  {
+    "Equation": "FeO+H₂SO₄==FeSO₄+H₂O",
+    "Valence": [
+      "Fe:+2",
+      "SO₄:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "S --> 0e"
+    ],
+    "Condition": "常温"
+  },
+  {
+    "Equation": "FeO+CO==Fe+CO₂",
+    "Valence": [
+      "Fe:0",
+      "C:+4",
+      "O:-2"
+    ],
+    "oxidizing_agent": "FeO",
+    "reducing_agent": "CO",
+    "Bridge": [
+      "C --> -2e",
+      "Fe --> +2e"
+    ],
+    "Condition": "高温（氧化亚铁被一氧化碳还原）"
+  },
+  {
+    "Equation": "FeSO₄+2NaOH==Fe(OH)₂↓+Na₂SO₄",
+    "Valence": [
+      "Fe:+2",
+      "SO₄:-2",
+      "Na:+1",
+      "OH:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "Na --> 0e"
+    ],
+    "Condition": "常温（白色 Fe(OH)₂ 沉淀，很快变灰绿）"
+  },
+  {
+    "Equation": "FeCl₃+3NaOH==Fe(OH)₃↓+3NaCl",
+    "Valence": [
+      "Fe:+3",
+      "Cl:-1",
+      "Na:+1",
+      "OH:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "Na --> 0e"
+    ],
+    "Condition": "常温（红褐色 Fe(OH)₃ 沉淀）"
+  },
+  {
+    "Equation": "4Fe(OH)₂+O₂+2H₂O==4Fe(OH)₃",
+    "Valence": [
+      "Fe:+3",
+      "O:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "O₂",
+    "reducing_agent": "Fe(OH)₂",
+    "Bridge": [
+      "Fe --> -1e",
+      "O --> +2e"
+    ],
+    "Condition": "常温（白色→灰绿色→红褐色，Fe(OH)₂ 被空气氧化）"
+  },
+  {
+    "Equation": "2Fe(OH)₃==Fe₂O₃+3H₂O",
+    "Valence": [
+      "Fe:+3",
+      "O:-2",
+      "H:+1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "H --> 0e"
+    ],
+    "Condition": "加热（红褐色 Fe(OH)₃ 受热分解）"
+  },
+  {
+    "Equation": "2FeCl₃+Fe==3FeCl₂",
+    "Valence": [
+      "Fe:+3",
+      "Fe:0",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "FeCl₃",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "Fe --> +1e"
+    ],
+    "Condition": "常温（Fe³⁺ 氧化 Fe，归中为 Fe²⁺，可用于刻蚀后回收）"
+  },
+  {
+    "Equation": "2FeCl₃+Cu==2FeCl₂+CuCl₂",
+    "Valence": [
+      "Fe:+3",
+      "Cu:0",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "FeCl₃",
+    "reducing_agent": "Cu",
+    "Bridge": [
+      "Cu --> -2e",
+      "Fe --> +1e"
+    ],
+    "Condition": "常温（FeCl₃ 腐蚀铜，用于刻蚀电路板）"
+  },
+  {
+    "Equation": "2FeCl₃+2KI==2FeCl₂+I₂+2KCl",
+    "Valence": [
+      "Fe:+3",
+      "I:0",
+      "K:+1",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "FeCl₃",
+    "reducing_agent": "KI",
+    "Bridge": [
+      "I --> -1e",
+      "Fe --> +1e"
+    ],
+    "Condition": "常温（生成碘单质，淀粉变蓝可检验）"
+  },
+  {
+    "Equation": "2FeCl₂+Cl₂==2FeCl₃",
+    "Valence": [
+      "Fe:+3",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "Cl₂",
+    "reducing_agent": "FeCl₂",
+    "Bridge": [
+      "Fe --> -1e",
+      "Cl --> +1e"
+    ],
+    "Condition": "常温（浅绿色 FeCl₂ 溶液被氯气氧化变黄）"
+  },
+  {
+    "Equation": "FeCl₃+3KSCN==Fe(SCN)₃+3KCl",
+    "Valence": [
+      "Fe:+3",
+      "SCN:-1",
+      "K:+1",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "K --> 0e"
+    ],
+    "Condition": "常温（溶液变血红色，检验 Fe³⁺ 的特征反应）"
+  },
+  {
+    "Equation": "4FeCl₃+3K₄[Fe(CN)₆]==Fe₄[Fe(CN)₆]₃↓+12KCl",
+    "Valence": [
+      "Fe:+3",
+      "CN:-1",
+      "K:+1",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "K --> 0e"
+    ],
+    "Condition": "常温（生成普鲁士蓝沉淀，检验 Fe³⁺）"
+  },
+  {
+    "Equation": "3FeCl₂+2K₃[Fe(CN)₆]==Fe₃[Fe(CN)₆]₂↓+6KCl",
+    "Valence": [
+      "Fe:+2",
+      "CN:-1",
+      "K:+1",
+      "Cl:-1"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "K --> 0e"
+    ],
+    "Condition": "常温（生成滕氏蓝沉淀，检验 Fe²⁺）"
+  },
+  {
+    "Equation": "10FeSO₄+2KMnO₄+8H₂SO₄==5Fe₂(SO₄)₃+2MnSO₄+K₂SO₄+8H₂O",
+    "Valence": [
+      "Fe:+3",
+      "Mn:+2",
+      "S:+6",
+      "K:+1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "KMnO₄",
+    "reducing_agent": "FeSO₄",
+    "Bridge": [
+      "Fe --> -1e",
+      "Mn --> +5e"
+    ],
+    "Condition": "常温（酸性 KMnO₄ 紫红色褪去，用于检验 Fe²⁺）"
+  },
+  {
+    "Equation": "FeCl₃+3H₂O==Fe(OH)₃(胶体)+3HCl",
+    "Valence": [
+      "Fe:+3",
+      "Cl:-1",
+      "H:+1",
+      "O:-2"
+    ],
+    "oxidizing_agent": "",
+    "reducing_agent": "",
+    "Bridge": [
+      "Fe --> 0e",
+      "Cl --> 0e"
+    ],
+    "Condition": "加热至沸（饱和 FeCl₃ 滴入沸水制红褐色胶体）"
+  },
+  {
+    "Equation": "Fe₂(SO₄)₃+Fe==3FeSO₄",
+    "Valence": [
+      "Fe:+3",
+      "Fe:0",
+      "SO₄:-2"
+    ],
+    "oxidizing_agent": "Fe₂(SO₄)₃",
+    "reducing_agent": "Fe",
+    "Bridge": [
+      "Fe --> -2e",
+      "Fe --> +1e"
+    ],
+    "Condition": "常温（Fe³⁺ 与 Fe 归中为 Fe²⁺）"
+  }
+]
