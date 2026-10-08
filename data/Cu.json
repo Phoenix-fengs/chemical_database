@@ -1,609 +1,609 @@
 [
-  {
-    "Equation": "2Cu+O₂==2CuO",
-    "Valence": [
-      "Cu:+2",
-      "O:-2"
-    ],
-    "oxidizing_agent": "O₂",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "O --> +2e"
-    ],
-    "Condition": "加热（铜在空气中受热生成黑色氧化铜）"
-  },
-  {
-    "Equation": "Cu+Cl₂==CuCl₂",
-    "Valence": [
-      "Cu:+2",
-      "Cl:-1"
-    ],
-    "oxidizing_agent": "Cl₂",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "Cl --> +1e"
-    ],
-    "Condition": "点燃（铜在氯气中燃烧，冒棕黄色烟）"
-  },
-  {
-    "Equation": "2Cu+S==Cu₂S",
-    "Valence": [
-      "Cu:+1",
-      "S:-2"
-    ],
-    "oxidizing_agent": "S",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -1e",
-      "S --> +2e"
-    ],
-    "Condition": "加热（铜粉与硫粉混合共热，生成黑色 Cu₂S）"
-  },
-  {
-    "Equation": "2Cu+O₂+CO₂+H₂O==Cu₂(OH)₂CO₃",
-    "Valence": [
-      "Cu:+2",
-      "O:-2",
-      "C:+4",
-      "H:+1"
-    ],
-    "oxidizing_agent": "O₂",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "O --> +2e"
-    ],
-    "Condition": "常温、潮湿空气（铜长期暴露生成铜绿）"
-  },
-  {
-    "Equation": "Cu+2AgNO₃==Cu(NO₃)₂+2Ag",
-    "Valence": [
-      "Cu:+2",
-      "Ag:+1",
-      "NO₃:-1"
-    ],
-    "oxidizing_agent": "AgNO₃",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "Ag --> +1e"
-    ],
-    "Condition": "常温（置换反应，银白色银析出）"
-  },
-  {
-    "Equation": "Cu+2FeCl₃==CuCl₂+2FeCl₂",
-    "Valence": [
-      "Cu:+2",
-      "Fe:+3",
-      "Cl:-1"
-    ],
-    "oxidizing_agent": "FeCl₃",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "Fe --> +1e"
-    ],
-    "Condition": "常温（Fe³⁺ 氧化铜）"
-  },
-  {
-    "Equation": "Cu+4HNO₃(浓)==Cu(NO₃)₂+2NO₂↑+2H₂O",
-    "Valence": [
-      "Cu:+2",
-      "N:+4",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "HNO₃",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "N --> +1e"
-    ],
-    "Condition": "常温（浓硝酸氧化铜，生成红棕色 NO₂）"
-  },
-  {
-    "Equation": "3Cu+8HNO₃(稀)==3Cu(NO₃)₂+2NO↑+4H₂O",
-    "Valence": [
-      "Cu:+2",
-      "N:+2",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "HNO₃",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "N --> +3e"
-    ],
-    "Condition": "常温或微热（稀硝酸氧化铜，生成无色 NO）"
-  },
-  {
-    "Equation": "Cu+2H₂SO₄(浓)==CuSO₄+SO₂↑+2H₂O",
-    "Valence": [
-      "Cu:+2",
-      "S:+4",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "H₂SO₄",
-    "reducing_agent": "Cu",
-    "Bridge": [
-      "Cu --> -2e",
-      "S --> +2e"
-    ],
-    "Condition": "加热（浓硫酸需加热才能氧化铜）"
-  },
-  {
-    "Equation": "CuO+H₂==Cu+H₂O",
-    "Valence": [
-      "Cu:0",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "CuO",
-    "reducing_agent": "H₂",
-    "Bridge": [
-      "H --> -1e",
-      "Cu --> +2e"
-    ],
-    "Condition": "加热（氢气还原黑色氧化铜，生成红色铜）"
-  },
-  {
-    "Equation": "CuO+CO==Cu+CO₂",
-    "Valence": [
-      "Cu:0",
-      "C:+4",
-      "O:-2"
-    ],
-    "oxidizing_agent": "CuO",
-    "reducing_agent": "CO",
-    "Bridge": [
-      "C --> -2e",
-      "Cu --> +2e"
-    ],
-    "Condition": "加热（一氧化碳还原氧化铜）"
-  },
-  {
-    "Equation": "CuO+H₂SO₄==CuSO₄+H₂O",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "S --> 0e"
-    ],
-    "Condition": "常温（黑色 CuO 溶解变蓝）"
-  },
-  {
-    "Equation": "CuO+2HCl==CuCl₂+H₂O",
-    "Valence": [
-      "Cu:+2",
-      "Cl:-1",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "Cl --> 0e"
-    ],
-    "Condition": "常温"
-  },
-  {
-    "Equation": "Cu(OH)₂+H₂SO₄==CuSO₄+2H₂O",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "OH:-1",
-      "H:+1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "S --> 0e"
-    ],
-    "Condition": "常温（蓝色沉淀溶解）"
-  },
-  {
-    "Equation": "CuSO₄+2NaOH==Cu(OH)₂↓+Na₂SO₄",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "Na:+1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "Na --> 0e"
-    ],
-    "Condition": "常温（生成蓝色絮状沉淀）"
-  },
-  {
-    "Equation": "CuSO₄+Fe==FeSO₄+Cu",
-    "Valence": [
-      "Cu:+2",
-      "Fe:+2",
-      "SO₄:-2"
-    ],
-    "oxidizing_agent": "CuSO₄",
-    "reducing_agent": "Fe",
-    "Bridge": [
-      "Fe --> -2e",
-      "Cu --> +2e"
-    ],
-    "Condition": "常温（铁置换铜，表面变红）"
-  },
-  {
-    "Equation": "CuCl₂+2NaOH==Cu(OH)₂↓+2NaCl",
-    "Valence": [
-      "Cu:+2",
-      "Cl:-1",
-      "Na:+1",
-      "OH:-1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "Cl --> 0e"
-    ],
-    "Condition": "常温"
-  },
-  {
-    "Equation": "Cu(OH)₂==CuO+H₂O",
-    "Valence": [
-      "Cu:+2",
-      "O:-2",
-      "H:+1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "H --> 0e"
-    ],
-    "Condition": "加热（蓝色沉淀受热变黑）"
-  },
-  {
-    "Equation": "Cu₂(OH)₂CO₃==2CuO+CO₂↑+H₂O",
-    "Valence": [
-      "Cu:+2",
-      "C:+4",
-      "O:-2",
-      "H:+1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "C --> 0e"
-    ],
-    "Condition": "加热（碱式碳酸铜受热分解变黑）"
-  },
-  {
-    "Equation": "CuSO₄+Zn==ZnSO₄+Cu",
-    "Valence": [
-      "Cu:+2",
-      "Zn:+2",
-      "SO₄:-2"
-    ],
-    "oxidizing_agent": "CuSO₄",
-    "reducing_agent": "Zn",
-    "Bridge": [
-      "Zn --> -2e",
-      "Cu --> +2e"
-    ],
-    "Condition": "常温（锌置换铜）"
-  },
-  {
-    "Equation": "2Al+3CuSO₄==Al₂(SO₄)₃+3Cu",
-    "Valence": [
-      "Cu:+2",
-      "Al:+3",
-      "SO₄:-2"
-    ],
-    "oxidizing_agent": "CuSO₄",
-    "reducing_agent": "Al",
-    "Bridge": [
-      "Al --> -3e",
-      "Cu --> +2e"
-    ],
-    "Condition": "常温（铝置换铜）"
-  },
-  {
-    "Equation": "CuCl₂+Fe==FeCl₂+Cu",
-    "Valence": [
-      "Cu:+2",
-      "Fe:+2",
-      "Cl:-1"
-    ],
-    "oxidizing_agent": "CuCl₂",
-    "reducing_agent": "Fe",
-    "Bridge": [
-      "Fe --> -2e",
-      "Cu --> +2e"
-    ],
-    "Condition": "常温"
-  },
-  {
-    "Equation": "CuSO₄+BaCl₂==BaSO₄↓+CuCl₂",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "Ba:+2",
-      "Cl:-1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "Ba --> 0e"
-    ],
-    "Condition": "常温（生成白色 BaSO₄ 沉淀）"
-  },
-  {
-    "Equation": "CuSO₄+Ba(OH)₂==Cu(OH)₂↓+BaSO₄↓",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "Ba:+2",
-      "OH:-1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "Ba --> 0e"
-    ],
-    "Condition": "常温（蓝色 Cu(OH)₂ 与白色 BaSO₄ 混合沉淀）"
-  },
-  {
-    "Equation": "CuCl₂+2AgNO₃==Cu(NO₃)₂+2AgCl↓",
-    "Valence": [
-      "Cu:+2",
-      "Cl:-1",
-      "Ag:+1",
-      "NO₃:-1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "Ag --> 0e"
-    ],
-    "Condition": "常温（生成白色 AgCl 沉淀）"
-  },
-  {
-    "Equation": "Cu₂(OH)₂CO₃+4HCl==2CuCl₂+CO₂↑+3H₂O",
-    "Valence": [
-      "Cu:+2",
-      "C:+4",
-      "Cl:-1",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "C --> 0e"
-    ],
-    "Condition": "常温（铜绿溶于盐酸，冒气泡）"
-  },
-  {
-    "Equation": "Cu₂(OH)₂CO₃+2H₂SO₄==2CuSO₄+CO₂↑+3H₂O",
-    "Valence": [
-      "Cu:+2",
-      "C:+4",
-      "SO₄:-2",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "C --> 0e"
-    ],
-    "Condition": "常温"
-  },
-  {
-    "Equation": "CuO+2HNO₃==Cu(NO₃)₂+H₂O",
-    "Valence": [
-      "Cu:+2",
-      "NO₃:-1",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "N --> 0e"
-    ],
-    "Condition": "常温"
-  },
-  {
-    "Equation": "Cu(OH)₂+2HNO₃==Cu(NO₃)₂+2H₂O",
-    "Valence": [
-      "Cu:+2",
-      "NO₃:-1",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "N --> 0e"
-    ],
-    "Condition": "常温"
-  },
-  {
-    "Equation": "CuSO₄·5H₂O==CuSO₄+5H₂O",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "H --> 0e"
-    ],
-    "Condition": "加热（蓝色胆矾失水变白）"
-  },
-  {
-    "Equation": "CuSO₄+5H₂O==CuSO₄·5H₂O",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "H --> 0e"
-    ],
-    "Condition": "常温（无水硫酸铜遇水变蓝，用于检验水）"
-  },
-  {
-    "Equation": "C+2CuO==2Cu+CO₂↑",
-    "Valence": [
-      "Cu:0",
-      "C:+4",
-      "O:-2"
-    ],
-    "oxidizing_agent": "CuO",
-    "reducing_agent": "C",
-    "Bridge": [
-      "C --> -4e",
-      "Cu --> +2e"
-    ],
-    "Condition": "高温（炭还原氧化铜）"
-  },
-  {
-    "Equation": "2Cu(NO₃)₂==2CuO+4NO₂↑+O₂↑",
-    "Valence": [
-      "Cu:+2",
-      "N:+4",
-      "O:0"
-    ],
-    "oxidizing_agent": "Cu(NO₃)₂",
-    "reducing_agent": "Cu(NO₃)₂",
-    "Bridge": [
-      "O --> -2e",
-      "N --> +1e"
-    ],
-    "Condition": "加热（硝酸铜受热分解）"
-  },
-  {
-    "Equation": "2CuSO₄+2H₂O==2Cu+O₂↑+2H₂SO₄",
-    "Valence": [
-      "Cu:0",
-      "O:0",
-      "H:+1",
-      "S:+6"
-    ],
-    "oxidizing_agent": "CuSO₄",
-    "reducing_agent": "H₂O",
-    "Bridge": [
-      "O --> -2e",
-      "Cu --> +2e"
-    ],
-    "Condition": "通电（电解硫酸铜溶液，阴极析铜）"
-  },
-  {
-    "Equation": "CuCl₂==Cu+Cl₂↑",
-    "Valence": [
-      "Cu:0",
-      "Cl:0"
-    ],
-    "oxidizing_agent": "CuCl₂",
-    "reducing_agent": "CuCl₂",
-    "Bridge": [
-      "Cl --> -1e",
-      "Cu --> +2e"
-    ],
-    "Condition": "通电（电解氯化铜溶液）"
-  },
-  {
-    "Equation": "CuSO₄+Na₂S==CuS↓+Na₂SO₄",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "Na:+1",
-      "S:-2"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "Na --> 0e"
-    ],
-    "Condition": "常温（生成黑色 CuS 沉淀）"
-  },
-  {
-    "Equation": "Cu₂O+H₂SO₄==CuSO₄+Cu+H₂O",
-    "Valence": [
-      "Cu:+1",
-      "S:+6",
-      "H:+1",
-      "O:-2"
-    ],
-    "oxidizing_agent": "Cu₂O",
-    "reducing_agent": "Cu₂O",
-    "Bridge": [
-      "Cu --> -1e",
-      "Cu --> +1e"
-    ],
-    "Condition": "常温（Cu₂O 歧化：部分 Cu⁺ 升为 Cu²⁺，部分降为 Cu⁰）"
-  },
-  {
-    "Equation": "CH₃CHO+2Cu(OH)₂+NaOH==CH₃COONa+Cu₂O↓+3H₂O",
-    "Valence": [
-      "Cu:+1",
-      "C:+3",
-      "Na:+1",
-      "O:-2",
-      "H:+1"
-    ],
-    "oxidizing_agent": "Cu(OH)₂",
-    "reducing_agent": "CH₃CHO",
-    "Bridge": [
-      "C --> -2e",
-      "Cu --> +1e"
-    ],
-    "Condition": "加热至沸腾（乙醛与新制 Cu(OH)₂，生成砖红色 Cu₂O）"
-  },
-  {
-    "Equation": "CuSO₄+4NH₃·H₂O==[Cu(NH₃)₄]SO₄+4H₂O",
-    "Valence": [
-      "Cu:+2",
-      "SO₄:-2",
-      "N:-3",
-      "H:+1"
-    ],
-    "oxidizing_agent": "",
-    "reducing_agent": "",
-    "Bridge": [
-      "Cu --> 0e",
-      "N --> 0e"
-    ],
-    "Condition": "常温（生成深蓝色铜氨配合物）"
-  }
+    {
+        "Equation": "2Cu+O₂==2CuO",
+        "Valence": [
+            "Cu:+2",
+            "O:-2"
+        ],
+        "oxidizing_agent": "O₂",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "O --> +2e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "Cu+Cl₂==CuCl₂",
+        "Valence": [
+            "Cu:+2",
+            "Cl:-1"
+        ],
+        "oxidizing_agent": "Cl₂",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "Cl --> +1e"
+        ],
+        "Condition": "点燃 | Ignition"
+    },
+    {
+        "Equation": "2Cu+S==Cu₂S",
+        "Valence": [
+            "Cu:+1",
+            "S:-2"
+        ],
+        "oxidizing_agent": "S",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -1e",
+            "S --> +2e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "2Cu+O₂+CO₂+H₂O==Cu₂(OH)₂CO₃",
+        "Valence": [
+            "Cu:+2",
+            "O:-2",
+            "C:+4",
+            "H:+1"
+        ],
+        "oxidizing_agent": "O₂",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "O --> +2e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu+2AgNO₃==Cu(NO₃)₂+2Ag",
+        "Valence": [
+            "Cu:+2",
+            "Ag:+1",
+            "NO₃:-1"
+        ],
+        "oxidizing_agent": "AgNO₃",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "Ag --> +1e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu+2FeCl₃==CuCl₂+2FeCl₂",
+        "Valence": [
+            "Cu:+2",
+            "Fe:+3",
+            "Cl:-1"
+        ],
+        "oxidizing_agent": "FeCl₃",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "Fe --> +1e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu+4HNO₃(浓)==Cu(NO₃)₂+2NO₂↑+2H₂O",
+        "Valence": [
+            "Cu:+2",
+            "N:+4",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "HNO₃",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "N --> +1e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "3Cu+8HNO₃(稀)==3Cu(NO₃)₂+2NO↑+4H₂O",
+        "Valence": [
+            "Cu:+2",
+            "N:+2",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "HNO₃",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "N --> +3e"
+        ],
+        "Condition": "常温或微热 | Room temperature or mild heat"
+    },
+    {
+        "Equation": "Cu+2H₂SO₄(浓)==CuSO₄+SO₂↑+2H₂O",
+        "Valence": [
+            "Cu:+2",
+            "S:+4",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "H₂SO₄",
+        "reducing_agent": "Cu",
+        "Bridge": [
+            "Cu --> -2e",
+            "S --> +2e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "CuO+H₂==Cu+H₂O",
+        "Valence": [
+            "Cu:0",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "CuO",
+        "reducing_agent": "H₂",
+        "Bridge": [
+            "H --> -1e",
+            "Cu --> +2e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "CuO+CO==Cu+CO₂",
+        "Valence": [
+            "Cu:0",
+            "C:+4",
+            "O:-2"
+        ],
+        "oxidizing_agent": "CuO",
+        "reducing_agent": "CO",
+        "Bridge": [
+            "C --> -2e",
+            "Cu --> +2e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "CuO+H₂SO₄==CuSO₄+H₂O",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "S --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuO+2HCl==CuCl₂+H₂O",
+        "Valence": [
+            "Cu:+2",
+            "Cl:-1",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "Cl --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu(OH)₂+H₂SO₄==CuSO₄+2H₂O",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "OH:-1",
+            "H:+1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "S --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuSO₄+2NaOH==Cu(OH)₂↓+Na₂SO₄",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "Na:+1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "Na --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuSO₄+Fe==FeSO₄+Cu",
+        "Valence": [
+            "Cu:+2",
+            "Fe:+2",
+            "SO₄:-2"
+        ],
+        "oxidizing_agent": "CuSO₄",
+        "reducing_agent": "Fe",
+        "Bridge": [
+            "Fe --> -2e",
+            "Cu --> +2e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuCl₂+2NaOH==Cu(OH)₂↓+2NaCl",
+        "Valence": [
+            "Cu:+2",
+            "Cl:-1",
+            "Na:+1",
+            "OH:-1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "Cl --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu(OH)₂==CuO+H₂O",
+        "Valence": [
+            "Cu:+2",
+            "O:-2",
+            "H:+1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "H --> 0e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "Cu₂(OH)₂CO₃==2CuO+CO₂↑+H₂O",
+        "Valence": [
+            "Cu:+2",
+            "C:+4",
+            "O:-2",
+            "H:+1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "C --> 0e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "CuSO₄+Zn==ZnSO₄+Cu",
+        "Valence": [
+            "Cu:+2",
+            "Zn:+2",
+            "SO₄:-2"
+        ],
+        "oxidizing_agent": "CuSO₄",
+        "reducing_agent": "Zn",
+        "Bridge": [
+            "Zn --> -2e",
+            "Cu --> +2e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "2Al+3CuSO₄==Al₂(SO₄)₃+3Cu",
+        "Valence": [
+            "Cu:+2",
+            "Al:+3",
+            "SO₄:-2"
+        ],
+        "oxidizing_agent": "CuSO₄",
+        "reducing_agent": "Al",
+        "Bridge": [
+            "Al --> -3e",
+            "Cu --> +2e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuCl₂+Fe==FeCl₂+Cu",
+        "Valence": [
+            "Cu:+2",
+            "Fe:+2",
+            "Cl:-1"
+        ],
+        "oxidizing_agent": "CuCl₂",
+        "reducing_agent": "Fe",
+        "Bridge": [
+            "Fe --> -2e",
+            "Cu --> +2e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuSO₄+BaCl₂==BaSO₄↓+CuCl₂",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "Ba:+2",
+            "Cl:-1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "Ba --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuSO₄+Ba(OH)₂==Cu(OH)₂↓+BaSO₄↓",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "Ba:+2",
+            "OH:-1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "Ba --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuCl₂+2AgNO₃==Cu(NO₃)₂+2AgCl↓",
+        "Valence": [
+            "Cu:+2",
+            "Cl:-1",
+            "Ag:+1",
+            "NO₃:-1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "Ag --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu₂(OH)₂CO₃+4HCl==2CuCl₂+CO₂↑+3H₂O",
+        "Valence": [
+            "Cu:+2",
+            "C:+4",
+            "Cl:-1",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "C --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu₂(OH)₂CO₃+2H₂SO₄==2CuSO₄+CO₂↑+3H₂O",
+        "Valence": [
+            "Cu:+2",
+            "C:+4",
+            "SO₄:-2",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "C --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuO+2HNO₃==Cu(NO₃)₂+H₂O",
+        "Valence": [
+            "Cu:+2",
+            "NO₃:-1",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "N --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu(OH)₂+2HNO₃==Cu(NO₃)₂+2H₂O",
+        "Valence": [
+            "Cu:+2",
+            "NO₃:-1",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "N --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CuSO₄·5H₂O==CuSO₄+5H₂O",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "H --> 0e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "CuSO₄+5H₂O==CuSO₄·5H₂O",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "H --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "C+2CuO==2Cu+CO₂↑",
+        "Valence": [
+            "Cu:0",
+            "C:+4",
+            "O:-2"
+        ],
+        "oxidizing_agent": "CuO",
+        "reducing_agent": "C",
+        "Bridge": [
+            "C --> -4e",
+            "Cu --> +2e"
+        ],
+        "Condition": "高温 | High temperature"
+    },
+    {
+        "Equation": "2Cu(NO₃)₂==2CuO+4NO₂↑+O₂↑",
+        "Valence": [
+            "Cu:+2",
+            "N:+4",
+            "O:0"
+        ],
+        "oxidizing_agent": "Cu(NO₃)₂",
+        "reducing_agent": "Cu(NO₃)₂",
+        "Bridge": [
+            "O --> -2e",
+            "N --> +1e"
+        ],
+        "Condition": "加热 | Heat"
+    },
+    {
+        "Equation": "2CuSO₄+2H₂O==2Cu+O₂↑+2H₂SO₄",
+        "Valence": [
+            "Cu:0",
+            "O:0",
+            "H:+1",
+            "S:+6"
+        ],
+        "oxidizing_agent": "CuSO₄",
+        "reducing_agent": "H₂O",
+        "Bridge": [
+            "O --> -2e",
+            "Cu --> +2e"
+        ],
+        "Condition": "通电 | Electrification"
+    },
+    {
+        "Equation": "CuCl₂==Cu+Cl₂↑",
+        "Valence": [
+            "Cu:0",
+            "Cl:0"
+        ],
+        "oxidizing_agent": "CuCl₂",
+        "reducing_agent": "CuCl₂",
+        "Bridge": [
+            "Cl --> -1e",
+            "Cu --> +2e"
+        ],
+        "Condition": "通电 | Electrification"
+    },
+    {
+        "Equation": "CuSO₄+Na₂S==CuS↓+Na₂SO₄",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "Na:+1",
+            "S:-2"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "Na --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "Cu₂O+H₂SO₄==CuSO₄+Cu+H₂O",
+        "Valence": [
+            "Cu:+1",
+            "S:+6",
+            "H:+1",
+            "O:-2"
+        ],
+        "oxidizing_agent": "Cu₂O",
+        "reducing_agent": "Cu₂O",
+        "Bridge": [
+            "Cu --> -1e",
+            "Cu --> +1e"
+        ],
+        "Condition": "常温 | Room temperature"
+    },
+    {
+        "Equation": "CH₃CHO+2Cu(OH)₂+NaOH==CH₃COONa+Cu₂O↓+3H₂O",
+        "Valence": [
+            "Cu:+1",
+            "C:+3",
+            "Na:+1",
+            "O:-2",
+            "H:+1"
+        ],
+        "oxidizing_agent": "Cu(OH)₂",
+        "reducing_agent": "CH₃CHO",
+        "Bridge": [
+            "C --> -2e",
+            "Cu --> +1e"
+        ],
+        "Condition": "加热至沸腾 | Heat to boiling"
+    },
+    {
+        "Equation": "CuSO₄+4NH₃·H₂O==[Cu(NH₃)₄]SO₄+4H₂O",
+        "Valence": [
+            "Cu:+2",
+            "SO₄:-2",
+            "N:-3",
+            "H:+1"
+        ],
+        "oxidizing_agent": "",
+        "reducing_agent": "",
+        "Bridge": [
+            "Cu --> 0e",
+            "N --> 0e"
+        ],
+        "Condition": "常温 | Room temperature"
+    }
 ]
